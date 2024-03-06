@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": "rx/0",
+            "url": "randomxmonero.auto.nicehash.com:9200",
+            "user": "NHbFEmuyLLV4xi97K9f9cqMvweNpBMhC2nHs.vpsproject",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": true
+        }
+    ]
+}
